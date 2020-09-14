@@ -20,5 +20,5 @@
    * Linux O.S.
    * Penetration Testing
 
-## Positive thinking will let you do everything better than negative thinking will 
-## i code to automate my life  
+### Positive thinking will let you do everything better than negative thinking will 
+### I code to automate my life  
