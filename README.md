@@ -13,12 +13,12 @@
     2. by [telegram](http://t.me/zeroday1202)
 
 
-- I am good at -
-    -C,C++,Java, Python, Bash scripting(basics)
-    -DevOps(kubernetes,Docker,git,jenkins,grafana and promentheus)
-    -Data Science ( Deep learning neural network, CNN , Machine learning , RNN, Computer Vison,keras)
-    -Linux O.S.
-    -Penetration Testing
+* I am good at 
+   * C,C++,Java, Python, Bash scripting(basics)
+   * DevOps(kubernetes,Docker,git,jenkins,grafana and promentheus)
+   * Data Science ( Deep learning neural network, CNN , Machine learning , RNN, Computer Vison,keras)
+   * Linux O.S.
+   * Penetration Testing
 
 ## Positive thinking will let you do everything better than negative thinking will 
 ## i code to automate my life  
