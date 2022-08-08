@@ -14,11 +14,13 @@
 
 
 * I am good at 
-   * C,C++,Java, Python, Bash scripting(basics)
-   * DevOps(kubernetes,Docker,git,jenkins,grafana and promentheus)
-   * Data Science ( Deep learning neural network, CNN , Machine learning , RNN, Computer Vison,keras)
-   * Linux O.S.
-   * Penetration Testing
+   * Programming Languages - Python, C, C++, Bash scripting(basic)
+   * Tools - Kubernetes, Docker, Git, Jenkins
+   * Domain - Deep learning neural network, CNN , Machine learning , RNN, Computer Vison
+   * Cloud- AWS(Lambda, Fargate, EC2, ECS
+   * Libraries - Tensorflow, Keras, Pytorch, OpenCV,Jupyter, Pandas, sklearn, Boto3
+   * OS - Linux (Debian, Arch, CentOS)
+   * Familiar: Raspberry Pi, Micro controllers( arduino, Esp32), Kubernetes, CUDA,
 
 ### Positive thinking will let you do everything better than negative thinking will 
 ### I code to automate my life  
