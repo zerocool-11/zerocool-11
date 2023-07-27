@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-**I'm Yash  I'm currently working as Machine Learning Engineer i have great intrest in AI and micro controllers **
+**I'm Yash—an AI enthusiast with 2 years of experience in MNCs. I've deployed and developed multiple AI projects and integrated them with frontend applications through APIs. I'm currently pursuing a full-time MSc. in Robotics and Artificial Intelligence at Cardiff Metropolitan University.**
 
-- 🔭 I’m currently working on **Voice Assistant**
+- 🔭 I like working on **interesting problem statements**
 
 - 🌱 I’m currently learning **Micro Controller Programming**
 
-- 💬 Ask me about **Deep learning, Image processing, APIs, Model Deployment, AWS Lambda**
+- 💬 Ask me about **Deep learning, Image processing, APIs, Model Deployment, AWS Lambda, Fargate and Sagemaker**
 
-- ⚡ Fun fact **i love Animes**
+- ⚡ Fun fact **i love Anime**
 
 
 
@@ -25,7 +25,7 @@
    * Programming Languages - Python, C, C++, Bash scripting(basic)
    * Tools - Kubernetes, Docker, Git, Jenkins
    * Domain - Deep learning neural network, CNN , Machine learning , RNN, Computer Vison
-   * Cloud- AWS(Lambda, Fargate, EC2, ECS
+   * Cloud- AWS(Lambda, Fargate, Sagemaker, EC2, ECS)
    * Libraries - Tensorflow, Keras, Pytorch, OpenCV,Jupyter, Pandas, sklearn, Boto3
    * OS - Linux (Debian, Arch, CentOS)
    * Familiar: Raspberry Pi, Micro controllers( arduino, Esp32), Kubernetes, CUDA,
